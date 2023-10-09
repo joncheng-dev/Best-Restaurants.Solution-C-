@@ -26,7 +26,7 @@
 
 ### Required Technology
 
-_1. Check that you have the required technology installed for MySql (https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) and MySql Workbench (https://dev.mysql.com/doc/workbench/en/)._
+_1. Check that you have the required technology installed: MySql (https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) and MySql Workbench (https://dev.mysql.com/doc/workbench/en/)._
 
 ### Setting Up the Project
 
@@ -63,7 +63,7 @@ _6. Navigate to the tab called Import Progress and click Start Import at the bot
 
 ## Running the Project
 
-- _Navigate to the project's production directory `Best-Restaurants.Solution-C-`. In the command line, run this command to compile and execute the web application. A new browser window should open, allowing you to interact with it._
+- _Navigate to the project's production directory `Best-Restaurants`. In the command line, run this command to compile and execute the web application. A new browser window should open, allowing you to interact with it._
 
 > ```bash
 > $ dotnet watch run
